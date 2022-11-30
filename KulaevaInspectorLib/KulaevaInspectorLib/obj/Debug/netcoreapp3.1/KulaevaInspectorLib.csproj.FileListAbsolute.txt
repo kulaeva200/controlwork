@@ -1,0 +1,17 @@
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\bin\Debug\netcoreapp3.1\KulaevaInspectorLib.exe
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\bin\Debug\netcoreapp3.1\KulaevaInspectorLib.deps.json
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\bin\Debug\netcoreapp3.1\KulaevaInspectorLib.runtimeconfig.json
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\bin\Debug\netcoreapp3.1\KulaevaInspectorLib.runtimeconfig.dev.json
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\bin\Debug\netcoreapp3.1\KulaevaInspectorLib.dll
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\bin\Debug\netcoreapp3.1\KulaevaInspectorLib.pdb
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.pdb
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.csproj.AssemblyReference.cache
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.AssemblyInfoInputs.cache
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.AssemblyInfo.cs
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.csproj.CopyComplete
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.dll
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.pdb
+C:\Users\kulla\source\repos\KulaevaInspectorLib\KulaevaInspectorLib\obj\Debug\netcoreapp3.1\KulaevaInspectorLib.genruntimeconfig.cache

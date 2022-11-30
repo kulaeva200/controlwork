@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "KulaevaInspectorLib/1.0.0": {
+        "dependencies": {
+          "InspectorLib": "1.0.0",
+          "InspectorLib.Reference": "1.0.0.0"
+        },
+        "runtime": {
+          "KulaevaInspectorLib.dll": {}
+        }
+      },
+      "InspectorLib.Reference/1.0.0.0": {
+        "runtime": {
+          "InspectorLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KulaevaInspectorLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InspectorLib.Reference/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

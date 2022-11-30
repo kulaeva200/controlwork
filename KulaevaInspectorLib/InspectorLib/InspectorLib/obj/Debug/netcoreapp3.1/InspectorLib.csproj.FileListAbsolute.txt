@@ -1,0 +1,10 @@
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.deps.json
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\bin\Debug\netcoreapp3.1\InspectorLib.pdb
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.csproj.AssemblyReference.cache
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.AssemblyInfoInputs.cache
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.AssemblyInfo.cs
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.csproj.CoreCompileInputs.cache
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.dll
+C:\Users\kulla\source\repos\KulaevaInspectorLib\InspectorLib\InspectorLib\obj\Debug\netcoreapp3.1\InspectorLib.pdb
